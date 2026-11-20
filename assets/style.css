@@ -108,3 +108,4 @@ nav ul a.on{color:#fff;border-bottom:1px solid var(--gold);padding-bottom:3px}
 .policy ul{padding-left:1.4em;margin-top:6px}
 .policy .date{margin-top:36px;font-size:13px;color:var(--muted);text-align:right}
 @media (max-width:560px){.policy{padding:32px 22px}}
+.msg .who .pic{display:block;width:160px;height:auto;aspect-ratio:4/5;object-fit:cover;object-position:50% 20%;margin-bottom:22px}
